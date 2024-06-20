@@ -1,0 +1,7 @@
+th,td{
+    padding: 20px;
+    border-style: solid;
+}
+tr  td p{
+   color:blue;
+}

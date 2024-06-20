@@ -1,0 +1,12 @@
+li{
+    color: red;
+}
+li p {
+    color: black;
+}
+.container{
+    margin: 5px;
+}
+ul li p{
+    padding: 10px;
+}

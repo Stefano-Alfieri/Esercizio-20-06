@@ -1,0 +1,6 @@
+li{
+    list-style-type: none;
+}
+ul>li:nth-child(-n+2){
+    color:red;
+}

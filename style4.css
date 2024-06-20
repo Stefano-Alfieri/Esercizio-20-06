@@ -1,0 +1,13 @@
+li{
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    padding-top: 8px;
+}
+div{
+    background-color: black;
+    height: 2rem;
+}
+li:hover{
+    color: red;
+}
